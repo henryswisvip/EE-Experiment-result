@@ -43,6 +43,4 @@ While this repository primarily serves as a supplement to the Extended Essay, co
 
 This work is licensed under the MIT License. See the LICENSE.md file for details.
 
-## Contact
 
-For any additional questions or comments, please contact the author at [your-email@example.com](mailto:your-email@example.com).
